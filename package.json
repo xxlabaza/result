@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@xxlabaza/result",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A result container.",
   "keywords": [
     "result",
